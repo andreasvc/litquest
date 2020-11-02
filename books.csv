@@ -1,0 +1,21 @@
+"Riddle rating bin","Author gender",Book,ID,"New ID","Survey rating",SEM
+"Medium literary",female,Smit_Vloed,1,1,4.9564270152505445,0.061423238023817744
+"Highly literary",male,Mortier_Godenslaap,2,2,6.602469135802469,0.021750067921156326
+"Medium literary",male,Appel_VanTweeKanten,3,3,4.117216117216117,0.0783854087479461
+"Highly literary",male,Heijden_Tonio,4,4,6.28515625,0.03261368302427016
+"Medium literary",male,Tex_Wachtwoord,17,5,4.2727272727272725,0.07105655112742502
+"Highly literary",female,Durlacher_Held,6,6,5.6646825396825395,0.044602450674441387
+"Medium literary",female,Dijkzeul_GoudenBergen,7,7,4.226519337016574,0.10594842021729939
+"Highly literary",female,Dorrestein_Stiefmoeder,16,8,5.531317494600432,0.04500707660874015
+"Medium literary",female,Hollander_Troostkind,9,9,4.088524590163934,0.08901058555394104
+"Highly literary",male,Voskuil_Buurman,10,10,6.053156146179402,0.03613042190036552
+"Highly literary",female,Enquist_Verdovers,11,11,5.811965811965812,0.042713962720353243
+"Medium literary",female,Vlugt_LaatsteOffer,12,12,4.021806853582555,0.08224645690326009
+"Medium literary",male,Launspach_1953,13,13,4.293388429752066,0.0668381575193398
+"Highly literary",female,Moor_SchilderEnMeisje,14,14,5.897226753670473,0.03403310537808418
+"Highly literary",male,Grunberg_ManZonderZiekte,15,15,6.111301369863014,0.03469180903313448
+"Highly literary",male,Beijnum_SoortFamilie,8,16,5.763385146804836,0.036529881581996486
+"Medium literary",female,Verhoef_Tegenlicht,5,17,4.204610951008646,0.08031566290397059
+"Medium literary",male,Vuijsje_AlleenMaarNette,18,18,4.457446808510638,0.051753372665006646
+"Highly literary",female,Loo_GroteMoeder,19,19,5.673758865248227,0.06863590110161978
+"Medium literary",male,Giphart_ZevenJaarGoede,20,20,4.647058823529412,0.13192352521903777
